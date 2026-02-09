@@ -10,6 +10,6 @@ Live Demo: https://696a05f282922723ce775ca1--photostudiowebapp.netlify.app/book
 GitHub: https://github.com/UdeshBhatti2004/Savore  
 Live Demo: https://savorerestaurent.netlify.app/
 
-## Task 3 – Datbase (Crud)
+## Task 3 – Database (Crud)
 GitHub: https://github.com/UdeshBhatti2004/bookmark-manager 
 Live Demo: https://book-mark-manage.netlify.app/
